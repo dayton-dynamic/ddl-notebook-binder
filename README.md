@@ -1,2 +1,5 @@
 # ddl-notebook-binder
-Jupyter notebooks demonstrations from meetings
+
+Repository for serving Jupyter notebooks demonstrating 
+concepts from meetings using [Binder](https://mybinder.org/)
+ 
